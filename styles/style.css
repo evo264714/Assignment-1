@@ -94,5 +94,31 @@ li:before {
 li {
     color: #444343;
     margin-bottom: 8px;
+}
 
+/* Plan styles */
+
+.my-plans {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.plans-count {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    text-align: center;
+}
+
+.plans-title {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.plans-description {
+    font-weight: 500;
+    font-size: 20px;
+    color: #737272;
 }
