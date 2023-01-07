@@ -165,7 +165,8 @@ li {
     display: flex;
     background-color: black;
 }
-.footer-left{
+
+.footer-left {
     margin: 130px 330px 130px 230px;
 }
 
@@ -182,14 +183,43 @@ li {
     font-weight: 400;
     font-size: 16px;
     width: 485px;
-height: 78px;
+    height: 60px;
 }
-.footer-icon{
-    margin-top: 32px;
+
+.footer-icon {
+
     margin-right: 15px;
 }
-.footer-sub-title{
+
+.footer-right {
+    margin-top: 130px;
+
+}
+
+.footer-sub-title {
     font-weight: 600;
-font-size: 25px;
-color: #FFFFFF;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.footer-btn {
+    padding: 20px 25px;
+    background: #005FAC;
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+    font-size: 20px;
+    float: right;
+    color: #FFFFFF;
+    margin-top: 16px;
+    margin-right: 380px;
+}
+
+.footer-input {
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 21px 158px 22px 21px;
+    font-weight: 400;
+    font-size: 18px;
 }
